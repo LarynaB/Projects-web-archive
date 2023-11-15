@@ -1,14 +1,3 @@
-# Links
-
-<aside>
-📜 Foundation/Design Doc: [https://docs.google.com/document/d/1yM4crF5sm8QMAdJIh2OOVXzAF-MogBy8fv3qMBkBLUU/edit](https://docs.google.com/document/d/1yM4crF5sm8QMAdJIh2OOVXzAF-MogBy8fv3qMBkBLUU/edit)
-
-</aside>
-
-<aside>
-📦 Google Drive: [https://drive.google.com/drive/folders/18kRzHzGCTtHCabtemi9LfCdekimGrPG9?usp=sharing](https://drive.google.com/drive/folders/18kRzHzGCTtHCabtemi9LfCdekimGrPG9?usp=sharing)
-
-</aside>
 
 ## Code Repositories
 
