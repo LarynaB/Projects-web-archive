@@ -1,10 +1,4 @@
 
-## Code Repositories
-
-Github(main): [https://github.com/Shwammies](https://github.com/Shwammies)
-
- Bitbucket(old): [https://bitbucket.org/Pychatasm/teamshwammies/src/main/](https://bitbucket.org/Pychatasm/teamshwammies/src/main/)
-
 ## Itch.io
 
 Pycha Shwammie itch page: [https://pyctasm.itch.io/teamshwammies](https://pyctasm.itch.io/teamshwammies)
