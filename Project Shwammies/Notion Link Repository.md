@@ -21,12 +21,4 @@ twitter.com/
 
 Portfolio: [https://www.larynabillinghurst.com/](https://www.larynabillinghurst.com/)
 
-IG: @codelaryna
-
-Twitter: @codelaryna
-
-youtube: [https://www.youtube.com/channel/UClBBJCdBeEzP3yNiPyZipng](https://www.youtube.com/channel/UClBBJCdBeEzP3yNiPyZipng)
-
-twitch: [https://www.twitch.tv/twilightarcanum](https://www.twitch.tv/twilightarcanum)
-
 linkedin: [https://www.linkedin.com/in/laryna-billinghurst/](https://www.linkedin.com/in/laryna-billinghurst/)
